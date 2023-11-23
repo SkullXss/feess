@@ -14,13 +14,13 @@ O FEESS é um script em Bash para baixar o conteúdo de um site de forma eficien
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/SkullXss/feess.git
+    git clone https://github.com/SkullXss/feess2.0.git
     ```
 
 2. Navegue até o diretório do script:
 
     ```bash
-    cd feess
+    cd feess2.0
     ```
 
 3. Execute o script:
